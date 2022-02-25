@@ -9,6 +9,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //coisas...
+        
+        //apartir do git
     }
 }
 
